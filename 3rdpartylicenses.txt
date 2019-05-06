@@ -93,6 +93,9 @@ MIT
 ng2-nouislider
 MIT
 
+ngx-page-scroll-core
+MIT
+
 nouislider
 WTFPL
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
