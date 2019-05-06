@@ -903,7 +903,7 @@ pre.prettyprint {
 }
 
 .container ul li{
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .info li:last-child {
@@ -1297,6 +1297,3 @@ pre.prettyprint {
     margin-top: 10px !important;
 }
 
-.font15{
-    font-size: 15px;
-}
